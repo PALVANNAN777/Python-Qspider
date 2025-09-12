@@ -30,6 +30,8 @@ This repository contains the Python codes I have been practicing during my **QSp
   * Queue ADT using collections
   * CGPA validation using static methods
   * College/Bank examples demonstrating OOPs concepts
+  * Some Leetcode & HackerRank programs
+  * DOMINOS Ordering Project (The final Q-spider project on 12-9-2025)
 
 ---
 
